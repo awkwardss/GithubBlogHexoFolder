@@ -4,16 +4,20 @@ date: 2017-08-19 23:01:32
 tags: leetcode
 ---
 
-## 链表两数相加
+## 2. 链表两数相加
 
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
+```
 Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
+```
 
 ### SOL
+
+直接对两个链表进行遍历(或者说对节点直接进行遍历操作而非单纯的从链表进行),复杂度是O(n)
 
 难点在于
 * 链表的使用
@@ -60,3 +64,11 @@ public class Solution {
 }
 ```
 
+做这道题的时候还注意了一下java for each的用法:
+在Java核心技术I-79页提出for each循环的语句格式为:
+```
+for (variable : collection) statement
+```
+
+> 定义一个变量用于暂存集合中的每一个元素,并执行相应的语句(或语句块).
+> Collection这一集合表达式必须是一个数组或者是一个实现了Iterable接口的类对象(例如ArrayList)

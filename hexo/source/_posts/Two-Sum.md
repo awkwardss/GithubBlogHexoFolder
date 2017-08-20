@@ -4,7 +4,7 @@ date: 2017-07-24 10:05:39
 tags: leetcode
 ---
 
-## 两数求和问题
+## 1. 两数求和问题
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
