@@ -81,6 +81,9 @@ class Solution {
 注意:
 * 别忘了处理重复值的情况！！！(眼神放空
 * 比较大小用Math.min/max更配哦(((
+* length: array用(int[], string[]); 
+  length(): String相关Obj用(String, StringBuilder, etc); 
+  size(): Collection Obj用(ArrayList, Set, etc) via https://goo.gl/arGP91
 
 ```java
 class Solution {
@@ -104,9 +107,6 @@ class Solution {
         
         //compare
         for(int i=0;i<array.length;i++){ 
-            //length: array用(int[], string[]);
-            //length(): String相关Obj用(String, StringBuilder, etc)
-            //size(): Collection Obj用(ArrayList, Set, etc) //https://goo.gl/arGP91
             if(array[i]){
                 if(pre<Integer.MAX_VALUE){
                    //if(timeDiff>(i-pre)){
