@@ -1,0 +1,37 @@
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Hexo version: \u001b[35m3.3.8\u001b[39m","time":"2017-08-20T10:25:31.992Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Working directory: \u001b[35m~/GITHUB/GithubBlogHexoFolder/hexo/\u001b[39m","time":"2017-08-20T10:25:31.997Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Config loaded: \u001b[35m~/GITHUB/GithubBlogHexoFolder/hexo/_config.yml\u001b[39m","time":"2017-08-20T10:25:32.199Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-08-20T10:25:32.226Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-08-20T10:25:32.230Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-08-20T10:25:32.233Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-08-20T10:25:32.258Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-08-20T10:25:32.260Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-08-20T10:25:32.269Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-08-20T10:25:32.419Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-08-20T10:25:32.424Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-08-20T10:25:32.426Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":30,"msg":"Deploying: \u001b[35mgit\u001b[39m","time":"2017-08-20T10:25:32.429Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":30,"msg":"Clearing .deploy_git folder...","time":"2017-08-20T10:25:32.436Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":30,"msg":"Copying files from public folder...","time":"2017-08-20T10:25:32.451Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":30,"msg":"Copying files from extend dirs...","time":"2017-08-20T10:25:32.495Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":30,"msg":"Catch you later","time":"2017-08-20T10:26:24.696Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":30,"msg":"Deploy done: \u001b[35mgit\u001b[39m","time":"2017-08-20T10:26:24.703Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":59970,"level":20,"msg":"Database saved","time":"2017-08-20T10:26:24.706Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Hexo version: \u001b[35m3.3.8\u001b[39m","time":"2017-08-20T10:30:03.518Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Working directory: \u001b[35m~/GITHUB/GithubBlogHexoFolder/hexo/\u001b[39m","time":"2017-08-20T10:30:03.521Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Config loaded: \u001b[35m~/GITHUB/GithubBlogHexoFolder/hexo/_config.yml\u001b[39m","time":"2017-08-20T10:30:03.721Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-08-20T10:30:03.748Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-08-20T10:30:03.753Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-08-20T10:30:03.781Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-08-20T10:30:03.784Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-08-20T10:30:03.787Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-08-20T10:30:03.795Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-08-20T10:30:03.801Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-08-20T10:30:03.803Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-08-20T10:30:03.959Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":30,"msg":"Deploying: \u001b[35mgit\u001b[39m","time":"2017-08-20T10:30:03.963Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":30,"msg":"Clearing .deploy_git folder...","time":"2017-08-20T10:30:03.975Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":30,"msg":"Copying files from public folder...","time":"2017-08-20T10:30:03.993Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":30,"msg":"Copying files from extend dirs...","time":"2017-08-20T10:30:04.032Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":30,"msg":"Deploy done: \u001b[35mgit\u001b[39m","time":"2017-08-20T10:30:12.770Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":60189,"level":20,"msg":"Database saved","time":"2017-08-20T10:30:12.775Z","v":0}
