@@ -5,10 +5,10 @@ fa_logo: fa-cube
 menu:
   Home: /
   Archives: /archives
-  About: /about.html
+#  About: /about
   Tags: /tags
-  Categories: /categories
-  Contact: /contact.html
+#  Categories: /categories
+#  Contact: /contact.html
 
 # Default post title
 default_post_title: Untitled
@@ -22,23 +22,23 @@ comments:
   disqus_shortname:
 
 # Google Analytics Tracking ID
-google_analytics:
+#google_analytics:
 
 # Social Accounts
-twitter_url: https://twitter.com/?lang=en
-facebook_url: https://www.facebook.com/
-instagram_url: https://www.instagram.com/
-dribble_url: https://dribbble.com/
-github_url: https://github.com/klugjo/hexo-theme-alpha-dust
-googleplus_url: https://plus.google.com/
-behance_url: https://www.behance.net/
-fivehundredpx_url: https://500px.com/
-email_url: test@example.com
-rss_url: \#
+#twitter_url: https://twitter.com/?lang=en
+#facebook_url: https://www.facebook.com/
+#instagram_url: https://www.instagram.com/
+#dribble_url: https://dribbble.com/
+github_url: https://github.com/awkwardss
+#googleplus_url:
+#behance_url: https://www.behance.net/
+#fivehundredpx_url: https://500px.com/
+email_url: chunfengdouruaimi@gmail.com
+#rss_url: \#
 
 # Footer About Text
-footer_about: "This theme was developed by <a href=\"https://github.com/klugjo\">Jonathan Klughertz</a>. The source code is available on Github. Create Websites. Make Magic."
+footer_about: "Talk is cheap.<br> Show me the code."
 
 # Footer Copyright Line
-footer_copyright: "@Untitled. All right reserved | Design & Hexo <a href=\"http://www.codeblocq.com/\">Jonathan Klughertz</a>"
+footer_copyright: "@Awkwardss-ss. All right reserved | Design & Hexo <a href=\"http://www.codeblocq.com/\">Jonathan Klughertz</a>"
 
