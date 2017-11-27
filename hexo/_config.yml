@@ -7,7 +7,7 @@ title: AWKWARD-SS复健站
 subtitle: 复健什么的，其实不存在的
 description: 一个衰弱的自我怀疑患者的复健记录站点
 author: AWKWARD-SS
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -43,6 +43,7 @@ highlight:
   auto_detect: false
   tab_replace:
 
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -63,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: alpha-dust
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -71,3 +72,4 @@ deploy:
   type: git
   repo: git@github.com:awkwardss/awkwardss.github.io.git
   branch: master
+
